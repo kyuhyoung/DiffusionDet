@@ -5,6 +5,7 @@
 ![](teaser.png)
 
 
+
 > [**DiffusionDet: Diffusion Model for Object Detection**](https://arxiv.org/abs/2211.09788)               
 > [Shoufa Chen](https://www.shoufachen.com/), [Peize Sun](https://peizesun.github.io/), [Yibing Song](https://ybsong00.github.io/), [Ping Luo](http://luoping.me/)                 
 > *[arXiv 2211.09788](https://arxiv.org/abs/2211.09788)* 
